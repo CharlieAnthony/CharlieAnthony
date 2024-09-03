@@ -1,16 +1,16 @@
-### Hi there 👋
+<h2> Hi, I'm Charlie! 👋</h2>
+<p>
+  <em>
+    🎓 Graduate from <a href="https://www.sussex.ac.uk/">University of Sussex</a>
+    </br>
+    💻 Volunteer Developer at <a href="https://x.com/RSC_EU">RSC</a>
+  </em>
+</p>
 
-
-<!-- **CharlieAnthony/CharlieAnthony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
+<h3>About me</h3>
+<ul>
+  <li>🌱 I'm currently learning Next.js</li>
+  <li>🔨 I'm currently working on building a Web App for <a href="https://x.com/RSC_EU">RSC</a></li>
+  <li>💪 My strengths are working with Python</li>
+  <li>🔵 I support Brighton and Hove Albion</li>
+</ul>

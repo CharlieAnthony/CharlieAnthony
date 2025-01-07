@@ -9,7 +9,6 @@
 
 <h3>About me</h3>
 <ul>
-  <li>🌱 I'm currently learning Next.js</li>
   <li>🔨 I'm currently working on a <a href="https://github.com/CharlieAnthony/Homemade-Chess">small chess application</a></li>
   <li>💪 My strengths are working with Python</li>
   <li>🔵 I support Brighton and Hove Albion</li>

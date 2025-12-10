@@ -9,7 +9,7 @@
 
 <h3>About me</h3>
 <ul>
-  <li>🔨 I'm currently working on a <a href="https://github.com/CharlieAnthony/Homemade-Chess">small chess application</a></li>
-  <li>💪 My strengths are working with Python</li>
+  <li>🔨 I'm currently working on a <a href="https://spacetraders.io/">SpaceTraders</a> automation project
+  <li>💪 I'm a full-stack dev, although prefer working with the backend</li>
   <li>🔵 I support Brighton and Hove Albion</li>
 </ul>
